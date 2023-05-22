@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Victor Castrp 😁
+## Bem-vindo(a) ao perfil de Victor Castro 🚀💻💜
 
  <div>
    <a href="https://github.com/Victorc-Castro">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para maiores informações sobre mim, segue nas redes a baixo:
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
