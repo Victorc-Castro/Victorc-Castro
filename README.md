@@ -1,10 +1,5 @@
-<h2 align="center">Status</h2>
 
-###
-
-<h1>Hi, i'm Victor</h1>
-
-###
+## <h1>Hi, i'm Victor</h1>
 
 <br clear="both">
 
