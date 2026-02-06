@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victorc-Castro&radius=16&theme=elegant&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+<h1>Hi, i'm Victor</h1>
 
 ###
 
