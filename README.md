@@ -1,6 +1,6 @@
 <h1>Hi, I'm Victor👋</h1>
 
-<h3 align="center">Techs</h3>
+<h3 align="left">Techs</h3>
 
 ###
 
