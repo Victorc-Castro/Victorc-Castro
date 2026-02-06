@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="center">Social Media</h3>
+<h3 align="left">Find me elsewhere</h3>
 
 ###
 
