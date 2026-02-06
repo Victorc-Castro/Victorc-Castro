@@ -1,7 +1,7 @@
 <h1>Hi, I'm Victor👋</h1>
+<p>I'm a Software Engineer. My specialty is full-stack web development.</p>
 
 <h3 align="left">Techs</h3>
-<p>I'm a Software Engineer. My specialty is full-stack web development.</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
