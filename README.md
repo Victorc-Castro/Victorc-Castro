@@ -1,5 +1,5 @@
-<h1>Hi, i'm Victor</h1>
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1>Hi, i'm Victor👋</h1>
+
 <h3 align="center">Techs</h3>
 
 ###
